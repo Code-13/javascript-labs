@@ -1,0 +1,11 @@
+{
+  "name": "javascript-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "code13",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
